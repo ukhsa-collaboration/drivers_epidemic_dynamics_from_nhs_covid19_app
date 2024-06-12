@@ -1,0 +1,10 @@
+*checkpoint*
+*.Rhistory
+.Rproj.user
+*.DS_Store
+
+data/private/*.csv
+plots/*.png
+plots/*.pdf
+results/*.txt
+results/*.csv
